@@ -13,3 +13,6 @@
 12. 501_clickTran_feat_all.py 转化率特征,复赛放弃
 13. 601_merge_data.py 合并之前构造的特征
 14. lgb_feat_imp.csv 特征重要性
+
+具体特征工程,构建思路,模型选择,数据下载参考知乎文章
+>https://zhuanlan.zhihu.com/p/36858386
